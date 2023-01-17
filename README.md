@@ -1,4 +1,4 @@
-# Resume Builder 📄
+# Resume_Builder 📄
 
 ### A simple resume builder web app developed in react.
 
